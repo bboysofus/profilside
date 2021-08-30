@@ -72,6 +72,22 @@
     padding: 1rem;
   }
 
+  #side-1{
+    transition: .3s all ease-out;
+  }
+
+  #side-1:hover{
+    color: white;
+  }
+
+  #side-2{
+    transition: .3s all ease-out;
+  }
+
+  #side-2:hover{
+    color: white;
+  }
+
   footer{
     background-color: black;
   }
